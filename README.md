@@ -25,6 +25,9 @@ scikit-image: For image loading and preprocessing.
 
 scikit-learn: For machine learning model training and evaluation.
 
+[Watch the demo video](https://www.youtube.com/watch?v=Ft94ypd4HxE&ab_channel=DebadityaAcharya)
+
+
 **How It Works**
 
 Dataset Preparation:
